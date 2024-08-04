@@ -5,12 +5,14 @@
 -Sherick Alejandro Manco Alvarez (https://github.com/Sherick1410)
 -Efrain Sanchez Posada (https://github.com/EfrainSP)
 
-* Tecnología en que se Desarrolló
-- <JAVA> 
-- <GIT>
-- <GIT HUB>
-- <WINDOWS>
-- <APACHE NEATBEANS>
+# Tecnología en que se Desarrolló
+<JAVA> 
+<GIT>
+<GIT HUB>
+<WINDOWS>
+<APACHE NEATBEANS>
+
+# Nombre del proyecto
 
 * Aplicación de Administración del Club
   
@@ -18,8 +20,8 @@
 manejando la información de las personas con acceso a ella,
 independientemente de su rol.
 
-*Como Correr el proyecto
--**Clona el Repositorio...**
+# Como Correr el proyecto
+*Clona el Repositorio...*
 
 
 
