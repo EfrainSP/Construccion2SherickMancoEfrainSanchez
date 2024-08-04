@@ -1,16 +1,14 @@
-# Construccion2SherickMancoEfrainSanchez
-
-* ConstruccionDeSoftware2
-
+# ConstruccionDeSoftware2
 -Sherick Alejandro Manco Alvarez (https://github.com/Sherick1410)
+
 -Efrain Sanchez Posada (https://github.com/EfrainSP)
 
 # Tecnología en que se Desarrolló
-*<JAVA> 
-*<GIT>
-*<GIT HUB>
-*<WINDOWS>
-*<APACHE NEATBEANS>
+<JAVA>
+<GIT>
+<GIT HUB>
+<WINDOWS>
+<APACHE NEATBEANS>
 
 # Nombre del proyecto
 
