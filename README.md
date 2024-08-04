@@ -6,11 +6,11 @@
 -Efrain Sanchez Posada (https://github.com/EfrainSP)
 
 # Tecnología en que se Desarrolló
-<JAVA> 
-<GIT>
-<GIT HUB>
-<WINDOWS>
-<APACHE NEATBEANS>
+*<JAVA> 
+*<GIT>
+*<GIT HUB>
+*<WINDOWS>
+*<APACHE NEATBEANS>
 
 # Nombre del proyecto
 
